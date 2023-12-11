@@ -17,10 +17,10 @@ pip install -r requirements.txt
 The program can be run from the command line with various arguments.
 
 ## Command Line Arguments
--t, --type : Specify the hash type (md5, sha256, bcrypt)
--v, --value : The hash value to crack
--m, --mode : Mode of attack (brute or dictionary)
--f, --file : File path for dictionary attack (if applicable)
++ -t, --type : Specify the hash type (md5, sha256, bcrypt)
++ -v, --value : The hash value to crack
++ -m, --mode : Mode of attack (brute or dictionary)
++ -f, --file : File path for dictionary attack (if applicable)
 
 ## Examples
 ### Brute Force Attack
@@ -34,8 +34,8 @@ python FinalBruteForce.py -t sha256 -v [hash_value] -m dictionary -f path/to/pas
 ```
 
 ## Extensions
-Salting and storing passwords in a database.
-Rainbow Table creation and usage (to be implemented).
++ Salting and storing passwords in a database.
++ Rainbow Table creation and usage (to be implemented).
 
 ## Dependencies
 List of Python libraries required.
