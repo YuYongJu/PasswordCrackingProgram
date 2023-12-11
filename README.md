@@ -9,12 +9,6 @@ This Python-based program is designed to perform password cracking using various
 Installation
 To use this program, you need to have Python installed on your machine.
 
-bash
-Copy code
-# Clone the repository
-git clone [repository-url]
-cd [repository-name]
-
 # Install required packages
 pip install -r requirements.txt
 Usage
