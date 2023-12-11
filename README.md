@@ -6,10 +6,9 @@ Password Cracking Program
 Overview
 This Python-based program is designed to perform password cracking using various methods. It supports brute force attacks, dictionary attacks, and can handle different hash types including MD5, SHA-256, and BCrypt. This tool is intended for educational purposes and ethical testing only.
 
-Installation
 To use this program, you need to have Python installed on your machine.
 
-# Install required packages
+## Install required packages
 pip install -r requirements.txt
 Usage
 The program can be run from the command line with various arguments.
