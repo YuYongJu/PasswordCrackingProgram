@@ -14,11 +14,6 @@ cd [repository-name]
 pip install -r requirements.txt
 ```
 
-## Dependencies
-```
-pip install -r requirements.txt
-```
-
 ## Prerequisites
 Make sure you have Python 3.x installed on your system.
 
