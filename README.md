@@ -38,4 +38,6 @@ python FinalBruteForce.py -t sha256 -v [hash_value] -m dictionary -f path/to/pas
 + Rainbow Table creation and usage (to be implemented).
 
 ## Dependencies
-List of Python libraries required.
+```
+pip install -r requirements.txt
+```
